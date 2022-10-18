@@ -164,4 +164,3 @@ def play_hangman():
     # Update secret_word. Don't uncomment this line until you get to Step 8.
     # secret_word  = get_word()
 
-
